@@ -1,6 +1,4 @@
-#Construindo um botao
-'''
-O que estamos construindo?
+'''O que estamos construindo?
 Uma aplicação simples que imprime condicionalmente mensages alternadas, dependendo se o botão estão pressionado ou não.
 
 Fluxo da aplicação:
